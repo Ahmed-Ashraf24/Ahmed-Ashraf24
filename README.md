@@ -3,7 +3,7 @@
 👋 **Hello! I'm Ahmed Ashraf**, a passionate Android Developer from Egypt with a strong background in building efficient, user-friendly mobile applications using **Kotlin**. I’m driven by creating scalable, maintainable apps that enhance user experiences.
 
 ## 🚀 Skills & Expertise:
-- **Languages:** Kotlin, Java (basic)
+- **Languages:** Kotlin, Java 
 - **Mobile Development:** Android SDK, ViewModel, LiveData  
 - **Architecture:** Clean Architecture, MVVM, other design patterns  
 - **Databases:** Room, MySQL, NoSQL (Firebase)  
