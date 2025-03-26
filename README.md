@@ -35,7 +35,6 @@ A Kotlin-based app that supports efficient file downloads:
   **GPA:** 3.33/4.0  
 
 ## 🌐 Connect with Me:
-- **GitHub:** [Ahmed-Ashraf24](https://github.com/Ahmed-Ashraf24)
 - **LinkedIn:** [Ahmed Ashraf](https://www.linkedin.com/in/ahmed-ashraf-1a4052200/)  
 - **Email:** ahmedashrafahmed2716@gmail.com  
 - **Location:** Port Said, Egypt  
