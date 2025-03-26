@@ -18,7 +18,7 @@ A manga reading app with a modern UI and real-time updates:
 - Implements **Clean Architecture** with **MVVM** for scalability and modular development.
 - Uses **Firebase Firestore** for real-time data synchronization, favorites management, and user behavior tracking.
 
-### 🔹 [ITourist](https://github.com/Ahmed-Ashraf24)
+### 🔹 [ITourist]([https://github.com/Ahmed-Ashraf24](https://github.com/Ahmed-Ashraf24/Itourist)
 A travel app designed to simplify trip planning and enhance the travel experience:
 - Helps tourists discover attractions, including museums and restaurants.
 - Features a **recommendation system** based on user behavior.
