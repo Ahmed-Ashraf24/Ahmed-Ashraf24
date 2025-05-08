@@ -4,11 +4,12 @@
 
 ## 🚀 Skills & Expertise:
 - **Languages:** Kotlin, Java 
-- **Mobile Development:** Android SDK, ViewModel, LiveData  
+- **Mobile Development:** Android SDK, ViewModel, LiveData, XML , JetpackCompose  
 - **Architecture:** Clean Architecture, MVVM, other design patterns  
 - **Databases:** Room, MySQL, NoSQL (Firebase)  
 - **APIs:** RESTful APIs, Retrofit, OkHttp  
-- **Asynchronous Programming:** Coroutines  
+- **Asynchronous Programming:** Kotlin Coroutines,Kotlin Flows 
+- **Other** ProblemSolver 
 - **Version Control:** Git, GitHub  
 
 ## 🛠️ Notable Projects:
